@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ASN1</string>
+    <string name="toastBtn">Toast</string>
+    <string name="countUpBtn">Count Up</string>
+    <string name="countDownBtn">Count Down</string>
+    <string name="Counter">Counter</string>
+</resources>
