@@ -39,4 +39,6 @@
     <string name="once_the_answer_is_selected_the_answer_cannot_be_changed">Once the answer is selected, the answer cannot be changed.</string>
     <string name="once_all_questions_are_answered_scores_will_be_displayed_on_a_new_page">Once all questions are answered, scores will be displayed on a new page.</string>
     <string name="rule_in_page">Rules:</string>
+    <string name="right_answer">right answer</string>
+    <string name="wrong_answer">Wrong answer</string>
 </resources>
