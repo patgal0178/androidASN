@@ -1,3 +1,43 @@
 <resources>
     <string name="app_name">RickNMortyQuiz</string>
+
+    <string name="question_1">The Rick &amp; Morty That The Show Follows Are Originally From Dimension C-173</string>
+    <string name="question_2">Jerry\'s Station Wagon Is Based On The Car From National Lampoon\'s Vacation?</string>
+    <string name="question_3">Rick &amp; Morty Have Appeared In The Opening Title Screen Of The Simpsons?</string>
+    <string name="question_4">Jaguar From \'Pickle Rick\' Had His Own Spin Off Show With Adult Swim?</string>
+    <string name="question_5">Two Brothers\' Is The First Show Rick &amp; Morty Watch On Inter-Dimensional Cable?</string>
+    <string name="question_6">According To Dan Harmon, A Schmeckle Is Worth $148?</string>
+    <string name="question_7">The Bloomflark Is The Universal Currency For The Galactic Federation?</string>
+    <string name="question_8">When Bird-Person Is \'Reborn\' He Is Dubbed Phoenix-Bird?</string>
+    <string name="question_9">Doctor Neon Bloom Runs Anatomy Park?</string>
+    <string name="question_10">When Snuffles Is Able To Talk, He Changes His Name To Snowball?</string>
+    <string name="question_11">"Wubba Lubba Dub Dub" Means \'Let\'s Party\'?</string>
+    <string name="question_12">Leading Up To The First Episode, Rick Had Left Beth And The Family For 10 Year</string>
+    <string name="question_13">In \'Total Rickall\', The Only Character That Isn\'t A Parasite Is Pencilvester?</string>
+    <string name="question_14">Tammy Killed Bird-Person On Their Wedding Day?</string>
+    <string name="question_15">When Being Scammed By The Zigereons, Rick\'s Safe Code Is \'1-3-5-3\'?</string>
+    <string name="question_16">Ice-T\'s Real Name On Alphabetrium Was H2O-T?</string>
+    <string name="question_17">When Jerry &amp; Beth Split Up, Jerry Enters A Relationship With A Krootabulan?</string>
+    <string name="question_18">The Episode \'Something Ricked This Way\' Is A Parody Of An Edgar Allen Poe Poem</string>
+    <string name="question_19">Rick\'s Hivemind Ex-Lover Is Called Purity?</string>
+    <string name="question_20">The Conjoint Twin That Simultaneously Host The News &amp;v A Cooking Show Are Calle Michael &amp; Pichael?</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="falsing">False</string>
+    <string name="trues">True</string>
+    <string name="rick_and_morty_image">rick and morty image</string>
+    <string name="right_image">right image</string>
+    <string name="wrong_image">Wrong Image</string>
+    <string name="next_button">next button</string>
+    <string name="previous_button">previous button</string>
+    <string name="winning_image">winning Image</string>
+    <string name="final_score">Final Score:</string>
+    <string name="test_your_rick_and_morty_knowledge_with_this_quiz">test your rick and morty knowledge with this quiz</string>
+    <string name="each_time_yo_play_the_score_is_reset">each time yo play the score is reset</string>
+    <string name="rick_and_morty_trivia_header">rick and morty trivia header</string>
+    <string name="rules_text">Rules:</string>
+    <string name="answer_each_question_with_the_options_presented">Answer each question with the options presented</string>
+    <string name="once_all_questions_answered_you_will_recieve_a_score_based_on_the_number_of_questions">Once all Questions Answered you will recieve a score based on the number of questions</string>
+    <string name="rules">Rules</string>
+    <string name="about">About</string>
 </resources>
