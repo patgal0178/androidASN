@@ -9,7 +9,12 @@ import com.example.ricknmortyquiz.R
      //   val id:Int,
      //   val answer:Boolean,var answered:Boolean =false
 //)
-
+data class Question(
+        val id:Int,
+        val answer:Boolean,
+        var answered:Boolean = false,
+        var answerUser:Boolean = false
+)
 class GameViewModel : ViewModel() {
     // TODO: Implement the ViewModel
 

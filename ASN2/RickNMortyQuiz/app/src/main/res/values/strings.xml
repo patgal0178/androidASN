@@ -45,4 +45,6 @@
     <string name="endGame">Game End</string>
     <string name="aboutGame">About the Game</string>
     <string name="_20">/ 20</string>
+    <string name="rick_and_morty_quiz">Rick and Morty Quiz</string>
+    <string name="play">Play</string>
 </resources>

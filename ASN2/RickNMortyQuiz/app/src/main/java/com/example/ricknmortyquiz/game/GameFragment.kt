@@ -11,12 +11,7 @@ import androidx.databinding.DataBindingUtil
 import androidx.navigation.fragment.findNavController
 import com.example.ricknmortyquiz.R
 import com.example.ricknmortyquiz.databinding.GameFragmentBinding
-private data class Question(
-        val id:Int,
-        val answer:Boolean,
-        var answered:Boolean = false,
-        var answerUser:Boolean = false
-)
+
 
 class GameFragment : Fragment() {
 

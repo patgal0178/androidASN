@@ -12,4 +12,6 @@ class GameOverViewModel(finalScore: Int) : ViewModel() {
     init {
         _score.value = finalScore
     }
+
+
 }
