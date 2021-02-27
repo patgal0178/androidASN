@@ -1,4 +1,4 @@
-package com.example.ricknmortyquiz.GameOver
+package com.example.ricknmortyquiz.gameOver
 
 import androidx.lifecycle.ViewModelProvider
 import android.os.Bundle

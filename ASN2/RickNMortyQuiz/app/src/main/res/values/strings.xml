@@ -40,4 +40,9 @@
     <string name="once_all_questions_answered_you_will_recieve_a_score_based_on_the_number_of_questions">Once all Questions Answered you will recieve a score based on the number of questions</string>
     <string name="rules">Rules</string>
     <string name="about">About</string>
+    <string name="RaMq">Rick and Morty Quiz</string>
+    <string name="Quiz">Quiz</string>
+    <string name="endGame">Game End</string>
+    <string name="aboutGame">About the Game</string>
+    <string name="_20">/ 20</string>
 </resources>
